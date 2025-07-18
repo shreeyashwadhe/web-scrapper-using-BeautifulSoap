@@ -16,6 +16,7 @@ A lightweight Python script that scrapes and displays public information from an
 ## 📁 Project Structure
 codechef-profile-scraper/
 │
+
 ├── main.py # Main scraping script
 └── README.md # Project documentation
 ---
