@@ -24,7 +24,7 @@ codechef-profile-scraper/
 
 - Python 3.x
 - Libraries:
-  - `requests`
+   `requests`
   - `beautifulsoup4`
   - `lxml`
 Install them via pip:
